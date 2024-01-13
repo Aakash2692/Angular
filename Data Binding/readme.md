@@ -6,4 +6,6 @@ It defines the communication between a component and the DOM.
 
 Angular supports two-way data binding i.e. we can both send and receive data.
 
-The two-way data binding in Angular enables data to flow from the component to the view and the other way round.
+The two-way data binding in Angular enables data to flow from the component to the view and the other way round i.e. when we change something in our view, the model updates automatically, and vice versa. 
+
+The ngModel directive makes this two-way data binding possible.
