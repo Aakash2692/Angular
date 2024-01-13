@@ -1,5 +1,5 @@
 # Angular
-Basics of Angular along with some demo. 
+Basics of Angular along with demos. 
 
 This repo consists of information related to Angular which cover topics such as :-
 
